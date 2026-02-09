@@ -9,15 +9,15 @@
 
 ### 👩🏽‍💻 About Me
 - 🔍 Data-driven developer passionate about solving real-world problems  
-- 🧠 Experienced in Machine Learning, APIs, and backend systems  
-  - 🛠 Skilled in  RESTful APIs, authentication systems, database design, and modern web technologies. 
+- 🧠 Experienced in Machine Learning, APIs, and backend systems
+-  🛠 Skilled in  RESTful APIs, authentication systems, database design, and modern web technologies. 
 - 📊 I turn raw data into insights and scalable applications  
 
 ---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,flask,js,react,git,github,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=python,sql,flask,js,react,git,github,mysql,aws,nodejs,express" />
 </p>
 
 ---
