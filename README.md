@@ -10,7 +10,7 @@
 ### 👩🏽‍💻 About Me
 - 🔍 Data-driven developer passionate about solving real-world problems  
 - 🧠 Experienced in Machine Learning, APIs, and backend systems  
-- 🛠 Skilled in Python, SQL, Flask, and modern web technologies  
+  - 🛠 Skilled in  RESTful APIs, authentication systems, database design, and modern web technologies. 
 - 📊 I turn raw data into insights and scalable applications  
 
 ---
