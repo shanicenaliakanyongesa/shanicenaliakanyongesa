@@ -22,18 +22,6 @@
 
 ---
 
-### 📌 Featured Projects
-- 🚢 **Titanic Survival Analysis**  
-  Data exploration, visualization, and predictive modeling  
-
-- 💎 **Diamond Price Prediction API**  
-  Flask-based ML API using structured features  
-
-- 🏋🏽 **GymXtreme Backend System**  
-  Authentication, admin roles, product & order management  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanicenaliakanyongesa&show_icons=true&theme=dark" />
