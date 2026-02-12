@@ -24,11 +24,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanicenaliakanyongesa&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanicenaliakanyongesa&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanicenaliakanyongesa&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanicenaliakanyongesa&layout=compact&theme=radical" />
 </p>
 
 ---
