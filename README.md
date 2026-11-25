@@ -1,6 +1,10 @@
- <h1 align="center">Hi 👋, I'm Shanice Naliaka</h1>
+# Hi 👋, I'm Shanice Naliaka
 
-<h3 align="center">Software Engineer | Data Analyst | AI/ML Enthusiast | Digital Solutions Specialist</h3>
+<h3 align="center">Software Developer | QA Engineer | Implementation & Application Support Engineer</h3>
+
+<p align="center">
+  Software Development · Quality Assurance · System Integration · Digital Solutions
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanicenaliakanyongesa&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -8,34 +12,49 @@
 
 ### 👩🏽‍💻 About Me
 
-Technology professional with a Computer Science background and experience spanning software development, data analytics, technical support, quality assurance, automation, and enterprise system implementation.
+Computer Science graduate and technology professional with experience in software development, quality assurance, enterprise implementation, and application support.
 
-I enjoy solving complex technical problems, integrating systems, automating workflows, and building scalable, data-driven solutions.
+I enjoy building applications, testing software, integrating systems, troubleshooting technical issues, and developing data-driven solutions.
 
-**Core Areas of Expertise**
-- 💻 Software Engineering – Full-Stack, Backend & JavaScript Development
-- 📊 Data Analytics & Business Intelligence – SQL, Python & Power BI
-- 🤖 AI & Machine Learning – Predictive Modelling & Intelligent Applications
-- 🧪 Quality Assurance – Manual Testing, API Testing, UAT & Test Automation
-- ⚙️ Automation & DevOps – Workflow Automation, Docker, Kubernetes, Linux & CI/CD
-- 🔌 Implementation & Integration – APIs, Fintech Systems, Digital Banking & Enterprise Solutions
-- 🛠️ Technical Support – Application Support, Troubleshooting, Incident Management & Root Cause Analysis
+### 🔍 Core Areas
+
+- 💻 **Development:** Full-Stack, Backend, JavaScript, React, Python.
+- 🧪 **QA & Testing:** Manual Testing, API Testing, UAT, Playwright.
+- 🔌 **Implementation:** REST APIs, Fintech Integrations, Deployment, System Configuration.
+- 🛠️ **Technical Support:** SQL, Troubleshooting, Incident Management, Root Cause Analysis.
+- 📊 **Data & AI:** SQL, Python, Power BI, Machine Learning.
+- ⚙️ **DevOps:** Docker, Kubernetes, Linux, Git, CI/CD.
+
+### 🚀 Featured Projects
+
+| Project | Technologies |
+|---|---|
+| MindTrack | React, FastAPI, Python, ML, SQLite |
+| Movie Recommendation System | Python, Machine Learning |
+| Data Analytics Projects | SQL, Python, Power BI |
+| Portfolio & Test Automation | React, Playwright |
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,fastapi,php,mongodb,mysql,postgres,aws,azure,docker,kubernetes,linux,git,github,gitlab,tensorflow,pytorch,sklearn" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,fastapi,php,mysql,postgres,mongodb,git,github,gitlab,docker,kubernetes,linux,aws,azure" />
 </p>
 
-**Additional Tools:** Power BI, Postman, Playwright, Microsoft Power Platform, SQL Server, Azure Functions.
+**Additional Tools:** Power BI, Postman, Playwright, SQL Server, Power Platform, Azure Functions.
+
+### 🌱 Currently Exploring
+
+- Software development and scalable applications.
+- QA automation and software quality engineering.
+- Cloud deployment, DevOps and infrastructure.
+- Data engineering, analytics and AI.
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [Shanice Naliaka](https://linkedin.com/in/shanice-naliaka-8a3972276)
-- 📧 Email: [shanicenyongesa@gmail.com](mailto:shanicenyongesa@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanice-naliaka-8a3972276/)
+- 📧 [Email](mailto:shanicenyongesa@gmail.com)
+- 💻 [GitHub](https://github.com/shanicenaliakanyongesa)
 
 <p align="center">
-  <i>Building solutions. Connecting systems. Turning data into impact.</i>
+  <i>Building software. Ensuring quality. Connecting systems. Solving problems.</i>
 </p>
-
-⭐ Feel free to explore my repositories and collaborate!
