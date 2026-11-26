@@ -1,6 +1,6 @@
    # Hi 👋, I'm Shanice Naliaka
 
-<h3 align="center">Software Developer | QA Engineer | Implementation & Application Support Engineer</h3>
+<h3 align="center">Software Developer | QA Engineer |Application Support & Implementation Engineer</h3>
 
 <p align="center">
   Software Development · Quality Assurance · System Integration · Digital Solutions
